@@ -53,3 +53,10 @@ Neste [projeto](https://github.com/Omozax/Consult-rio_m-dico.), desenvolvi uma A
     <img src="https://komarev.com/ghpvc/?username=Omozax" alt="Profile Views" />
 
 </div>
+
+---
+<div align="center">
+
+[EN](https://github.com/Omozax/Consult-rio_m-dico./blob/main/README-EN.md)
+
+</div>
