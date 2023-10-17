@@ -39,11 +39,11 @@ Sou uma designer com experiência em ferramentas de edição de imagem e vídeo,
 ---
 
 
-## [Projeto 💻](https://github.com/Omozax/Consult-rio_m-dico)
+## Projeto 💻
 <br />
 
 
-Neste projeto, desenvolvi uma API RESTful para um Consultório Médico como parte de um desafio para a escola **CUBOS**. O objetivo era criar um MVP (Produto Viável Mínimo) para **listar, criar, atualizar, excluir, finalizar** consultas médicas e **criar laudos**  de consultas. 
+Neste [projeto](https://github.com/Omozax/Consult-rio_m-dico.), desenvolvi uma API RESTful para um Consultório Médico como parte de um desafio para a escola **CUBOS**. O objetivo era criar um MVP (Produto Viável Mínimo) para **listar, criar, atualizar, excluir, finalizar** consultas médicas e **criar laudos**  de consultas. 
 
 
 <br />
